@@ -1,5 +1,5 @@
 # load input data
-with open('./input.txt') as f:
+with open('./day_1.txt') as f:
     data = [int(x) for x in f.readlines()]
 
 
