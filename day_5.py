@@ -2,7 +2,7 @@ import re
 
 
 # read and parse input
-with open('day_5.txt') as f:
+with open('input/day_5.txt') as f:
     raw_input = f.readlines()
 lines = [[int(x) for x in re.findall('\d+', line)] for line in raw_input]
 

@@ -78,7 +78,7 @@ let parseDiagnositcs = (rawData) => {
 	console.log(oxyRate * co2Rate)
 }
 
-fs.readFile('day_3.txt', 'utf8', (err, data) => {
+fs.readFile('input/day_3.txt', 'utf8', (err, data) => {
   parseDiagnositcs(data)
 })
 

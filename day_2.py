@@ -1,5 +1,5 @@
 # part 1
-with open('day_2.txt') as f:
+with open('input/day_2.txt') as f:
     data = [x.rsplit() for x in f.readlines()]
 
 h_pos, v_pos = 0, 0

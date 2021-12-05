@@ -53,7 +53,7 @@ def loose_game(boards, draws):
                         return board.calc_score(draw)
 
 # prepare data
-with open('day_4.txt') as f:
+with open('input/day_4.txt') as f:
     raw_data = f.readlines()
 
 draws = [int(x) for x in raw_data[0].split(',')]
