@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "Nothing says happy holidays like some code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smwade/AdventOfCode2021.git"
+  },
+  "type": "module",
+  "author": "Sean Wade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smwade/AdventOfCode2021/issues"
+  },
+  "homepage": "https://github.com/smwade/AdventOfCode2021#readme"
+}
