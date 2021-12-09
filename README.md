@@ -1,5 +1,5 @@
-# Advent of Code 2021
+# Advent of Code
 
-Nothing says happy holidays like some code
+Nothing says happy holidays like some code. Mostly implemented in python, but try out some other languages
 
-https://adventofcode.com/2021
+https://adventofcode.com
