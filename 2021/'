@@ -1,0 +1,11 @@
+import re
+import random
+
+with open('input/day_21.txt') as infile:
+    raw_data = infile.read()
+raw_data = re.findall(r'\d', raw_data)
+data = [int(x) for x in [raw_data[1], raw_data[3]]]
+
+
+roll = sum([random.randint(1,6)) for _ in range(3)])
+print(roll)
